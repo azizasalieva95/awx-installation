@@ -35,4 +35,5 @@ Open your browser, enter the public IP of the SERVER
 #### 6. Log In
 
 user: admin
+
 password: password
