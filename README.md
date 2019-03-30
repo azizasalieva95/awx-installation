@@ -5,7 +5,9 @@
 #### SERVER
 
 OS = CentOS7
+
 Size = 4GB / 2 CPUs
+
 Storage = 80GB
 
 ### Installation
@@ -24,4 +26,4 @@ cd  /awx-installation
 
 #### 4. Run installation
 
-bash install.sh 
+bash install.sh
