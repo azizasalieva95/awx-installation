@@ -22,8 +22,17 @@ git clone https://github.com/azaa1/awx-installation.git
 
 #### 3. Change Directory to Repository
 
-cd  /awx-installation
+cd  awx-installation
 
 #### 4. Run installation
 
 bash install.sh
+
+#### 5. Access Tower
+
+Open your browser, enter the public IP of the SERVER
+
+#### 6. Log In
+
+user: admin
+password: password
